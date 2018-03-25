@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: sans-serif;
+}
+body{
+	background-color: #ddeaff;
+}
+
+.box-form{
+	width: 60%;
+	min-height: 200px;
+	border: 1px ;
+	margin: 7% auto;
+	background-color: #fff;
+	padding: 1%;
+}
+
+.box-form form button[role=button] {
+	padding: 1% 5%;
+	display: inline-block;
+	background-color: #406199;
+	color: #fff;
+	border: 1px solid #black;
+	cursor: pointer;
+}

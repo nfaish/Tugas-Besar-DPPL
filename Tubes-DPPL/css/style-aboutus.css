@@ -1,0 +1,17 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: sans-serif;
+}
+body{
+	background-color: #ddeaff;
+}
+
+.box-form{
+	width: 40%;
+	min-height: 300px;
+	border: 1px dashed;
+	margin: 5% auto;
+	background-color: #fff;
+	padding: 1%;
+}
