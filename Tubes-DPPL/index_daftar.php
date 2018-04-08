@@ -37,15 +37,9 @@
 		<div class="box-login">
 			<center>
 				<img src="foto/user.png" /><br>
-				<h2>Silahkan Login</h2>
+				<h2>Silahkan Daftar</h2>
 			</center>
 
-			<form action="login.php" method="POST" align="center">
-				<input type="Email" name="email" placeholder="Email" /><br>
-				<input type="Password" name="pass" placeholder="Password" /><br>
-				<input type="submit" name="login" value="Login"  />
-			</form>
-			<br>
 			<form action="Form-DataDiri.php" method="POST" align="center">
 				<input type="submit" name="daftar" value="Daftar" />
 			</form>
